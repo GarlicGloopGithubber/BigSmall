@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/Projects/BigSmall/GAM20001_A2_BigSmall/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+				"F:/Projects/BigSmall/GAM20001_A2_BigSmall/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"F:/Projects/BigSmall/GAM20001_A2_BigSmall/Content/ActualMap/BaseLevel01.umap",
+				"F:/Projects/BigSmall/GAM20001_A2_BigSmall/Content/ActualMap/BaseLevel01_BuiltData.uasset"
 			]
 		}
 	]
