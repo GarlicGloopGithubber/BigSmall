@@ -5,6 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/MapRealthistime.umap",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/MapRealthistime_BuiltData.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/ThirdPerson/Blueprints/BP_ThirdPersonKate.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/M_Landscape.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/MI_Landscape_01.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/MapRealthistime_sharedassets/L1_LayerInfo.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/MapRealthistime_sharedassets/L2_LayerInfo.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/MapRealthistime_sharedassets/L3_LayerInfo.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/MapRealthistime_sharedassets/L4_LayerInfo.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/MapRealthistime_sharedassets/Rocky_LayerInfo.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/MapRealthistime_sharedassets/Dirty_LayerInfo.uasset",
+				"G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Content/CavePlaceholder_StaticMesh.uasset",
 				"F:/Projects/BigSmall/GAM20001_A2_BigSmall/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"F:/Projects/BigSmall/GAM20001_A2_BigSmall/Content/ActualMap/BaseLevel01.umap",
 				"F:/Projects/BigSmall/GAM20001_A2_BigSmall/Content/ActualMap/BaseLevel01_BuiltData.uasset"

@@ -1,0 +1,15 @@
+2024/04/05-21:44:53.037 105c Reusing MANIFEST G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/05-21:44:53.037 105c Recovering log #4
+2024/04/05-21:44:53.037 105c Reusing old log G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/04/05-22:20:33.104 83b4 Level-0 table #8: started
+2024/04/05-22:20:33.113 83b4 Level-0 table #8: 547 bytes OK
+2024/04/05-22:20:33.114 83b4 Delete type=0 #4
+2024/04/05-22:20:33.114 83b4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/04/05-22:20:33.114 83b4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 60 : 1
+2024/04/05-22:20:33.115 83b4 Compacting 1@1 + 1@2 files
+2024/04/05-22:20:33.119 83b4 Generated table #9@1: 17 keys, 515 bytes
+2024/04/05-22:20:33.119 83b4 Compacted 1@1 + 1@2 files => 515 bytes
+2024/04/05-22:20:33.120 83b4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/05-22:20:33.121 83b4 Delete type=2 #5
+2024/04/05-22:20:33.121 83b4 Delete type=2 #8
+2024/04/05-22:20:33.121 83b4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 60 : 1 .. (end); will stop at (end)

@@ -1,0 +1,9 @@
+[0405/191014.370:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0405/222031.163:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0405/222031.443:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0405/222031.802:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 296 ms
+[0405/222036.347:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[0405/222036.781:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0405/222037.074:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 243 ms
+[0405/222039.116:WARNING:backend_impl.cc(1641)] Messed up entry found.
+[0405/222039.116:WARNING:backend_impl.cc(1837)] Destroying invalid entry.
