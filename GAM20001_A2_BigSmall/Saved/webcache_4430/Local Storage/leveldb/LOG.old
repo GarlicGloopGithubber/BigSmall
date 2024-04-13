@@ -1,3 +1,5 @@
-2024/04/08-19:37:20.385 161f8 Reusing MANIFEST G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/04/08-19:37:20.393 161f8 Recovering log #3
-2024/04/08-19:37:20.394 161f8 Reusing old log G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/04/13-23:33:18.874 296c Reusing MANIFEST G:/Unreal Projects/BigSmall/GAM20001_A2_BigSmall/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/13-23:33:18.875 296c Recovering log #3
+2024/04/13-23:33:18.875 296c Level-0 table #3: started
+2024/04/13-23:33:18.879 296c Level-0 table #3: 17830 bytes OK
+2024/04/13-23:33:18.881 296c Delete type=0 #3
